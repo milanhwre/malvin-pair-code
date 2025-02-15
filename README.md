@@ -3,7 +3,7 @@
 
 - Fork, Star and Edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
-- This is what I use in my **[Session Site](https://pair1.giftedtech.my.id)** so don't ask for more...
+- This is what I use in my **[Session Site](https://xdv23-e879765bee31.herokuapp.com/)** so don't ask for more...
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using malvin-baileys/whiskeysockets/baileys but with ***megajs***
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -39,7 +39,7 @@
     <img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/-DEPLOY TO KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/>
 </a>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://pair1.giftedtech.my.id)
+[`HERE'S AN EXAMPLE OUTPUT`](https://xdv23-e879765bee31.herokuapp.com/)
 # `Owner`
 
  <a href="https://github.com/kingmalvn"><img src="https://github.com/kingmalvn.png" width="250" height="250" alt="Gifted Tech"/></a>
